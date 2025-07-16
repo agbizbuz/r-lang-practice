@@ -1,0 +1,7 @@
+---
+title: "README"
+output: html_document
+---
+
+# Intro
+Practice the lessons from [Machine Learning with R](https://www.youtube.com/playlist?list=PLKBUk9FL4nBaHaW7C4_SAQfY_Wf-hupUG)
